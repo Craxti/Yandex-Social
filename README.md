@@ -1,4 +1,4 @@
-# Yandex.Alisa + Social networks = <3
+# Yandex.Alisa + Social networks
 
 A skill for Yandex.Alisa with the ability to interact with social networks to find the most interesting information.
 You can format all your ideas as tasks or write to our social networks, as well as send us your improvements. This way we can make the Yandex.Alice skill useful for our community!
